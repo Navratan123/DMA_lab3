@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">All Boys Aren\’t Blue</string>
+
+    <string name="article_text">
+        Johnson’s memoir earned glowing reviews for its unflinching and at times exuberant look at the challenges and joys of growing up Black and queer. The book, which includes scenes that depict oral and anal sex and sexual assault, has been challenged in school libraries across the country.
+        <b>Out of Darkness</b> - Set in 1930s Texas, “Out of Darkness” centers on a romance between a Mexican American teenage girl and a Black teenage boy. The novel has been widely challenged, including by a parent at the Lake Travis Independent School District in Austin who complained about a passage where teenage boys make explicit sexual and racist comments about a Mexican American girl. Perez has argued that her novel deals with racism and sexual abuse because those are issues that young people confront in their own lives.
+        \n\n
+        <b>The Hate U Give</b> - Thomas/’s young adult debut novel centers on a Black teenage girl whose friend is shot by a police officer during a traffic stop. A best seller, it helped stir conversations about police violence, but has been challenged across the country for what critics say is profanity, violence and an “anti-police” agenda.
+        “There/’s the assumption that it/’s an anti-police book, when the fact is it/’s anti-police brutality,” Thomas said <i>in an interview</i> with Entertainment Weekly.
+
+        \n\n<b>Me and Earl and the Dying Girl</b> - A novel about an awkward boy named Greg who hopes to make it through high school by keeping a low profile; his friend, Earl; and a girl who has cancer, whom Greg’s mom pushes him to befriend. A New York Times best seller, it was made into a movie written by Andrews and directed by Alfonso Gomez-Rejon.
+
+The book has been challenged because it was considered degrading to women and sexually explicit.
+        <b>Me and Earl and the Dying Girl</b> - A novel about an awkward boy named Greg who hopes to make it through high school by keeping a low profile; his friend, Earl; and a girl who has cancer, whom Greg’s mom pushes him to befriend. A New York Times best seller, it was made into a movie written by Andrews and directed by Alfonso Gomez-Rejon.
+
+The book has been challenged because it was considered degrading to women and sexually explicit.
+</string>
+    <string name="comment">Add Comment</string>
+
+</resources>
